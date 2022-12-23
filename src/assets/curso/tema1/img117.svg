@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <g id="Grupo_956950" data-name="Grupo 956950" transform="translate(-509 -32334)">
+    <g id="Grupo_956943" data-name="Grupo 956943" transform="translate(509 32334)">
+      <g id="_240_F_321763424_EUgnpmBP81OrR6HvnHsT5Mthjtk0JLcN" data-name="240_F_321763424_EUgnpmBP81OrR6HvnHsT5Mthjtk0JLcN" fill="#fff" stroke="#332862" stroke-width="6">
+        <circle cx="52.5" cy="52.5" r="52.5" stroke="none"/>
+        <circle cx="52.5" cy="52.5" r="49.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_956944" data-name="Grupo 956944" transform="translate(78 -17.999)">
+      <path id="Elipse_5652" data-name="Elipse 5652" d="M38.971,13.267a25.7,25.7,0,1,0,25.7,25.7,25.734,25.734,0,0,0-25.7-25.7M38.971,0A38.971,38.971,0,1,1,0,38.971,38.971,38.971,0,0,1,38.971,0Z" transform="translate(445 32366)" fill="#e6e1fb"/>
+      <path id="Sustracción_1" data-name="Sustracción 1" d="M9.285,77.943A39.119,39.119,0,0,1,0,76.832L2.24,63.693A25.706,25.706,0,1,0,9.285,13.266V0A38.712,38.712,0,0,1,36.843,11.416a38.972,38.972,0,0,1,0,55.113A38.708,38.708,0,0,1,9.285,77.943Z" transform="translate(474.688 32365.998)" fill="#342287"/>
+      <text id="_54_" data-name="54 %" transform="translate(463.472 32411.471)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">54 %</tspan></text>
+    </g>
+  </g>
+</svg>

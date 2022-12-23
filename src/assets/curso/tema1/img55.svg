@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="115" viewBox="0 0 190 115">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_45241" data-name="Rectángulo 45241" width="190" height="115" transform="translate(1020 9470)" fill="#2ff980"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_136" data-name="Enmascarar grupo 136" transform="translate(-1020 -9470)" clip-path="url(#clip-path)">
+    <g id="Filled_Outline" data-name="Filled Outline" transform="translate(1055.543 9468.086)">
+      <path id="Trazado_633089" data-name="Trazado 633089" d="M8.83,20h95.762a3.83,3.83,0,0,1,3.83,3.83V90.864H5V23.83A3.83,3.83,0,0,1,8.83,20Z" transform="translate(2.746 16.474)" fill="#a7d6dd"/>
+      <path id="Trazado_633090" data-name="Trazado 633090" d="M3,57H114.084v3.83a3.83,3.83,0,0,1-3.83,3.83H6.83A3.83,3.83,0,0,1,3,60.83Z" transform="translate(0.915 50.338)" fill="#6cbbc7"/>
+      <path id="Trazado_633091" data-name="Trazado 633091" d="M30,10.661h7.661V6.83A3.83,3.83,0,0,0,33.83,3h0A3.83,3.83,0,0,0,30,6.83Z" transform="translate(25.627 0.915)" fill="#fdb62f"/>
+      <rect id="Rectángulo_34550" data-name="Rectángulo 34550" width="74.911" height="89.893" rx="2" transform="translate(21.263 9.898)" fill="#fdb62f"/>
+      <rect id="Rectángulo_34551" data-name="Rectángulo 34551" width="62.069" height="72.77" transform="translate(27.684 20.6)" fill="#ffe9cc"/>
+      <rect id="Rectángulo_34552" data-name="Rectángulo 34552" width="42.806" height="10.702" transform="translate(38.385 9.898)" fill="#83beb9"/>
+      <path id="Trazado_633092" data-name="Trazado 633092" d="M21,11v7.661H63.135V11" transform="translate(17.389 8.237)" fill="#02998a"/>
+      <path id="Trazado_633093" data-name="Trazado 633093" d="M113.084,40.3a5.746,5.746,0,0,0-5.746-5.746H99.677V15.407a5.746,5.746,0,0,0-5.746-5.746H65.2V7.746a5.746,5.746,0,0,0-11.491,0V9.661H24.983a5.746,5.746,0,0,0-5.746,5.746V34.559H11.576A5.746,5.746,0,0,0,5.83,40.3v65.118H2v5.746a5.746,5.746,0,0,0,5.746,5.746H111.168a5.746,5.746,0,0,0,5.746-5.746v-5.746h-3.83ZM57.542,7.746a1.915,1.915,0,1,1,3.83,0V9.661h-3.83Zm21.068,5.746v3.83H40.3v-3.83ZM40.3,21.152h38.3v3.83H40.3ZM82.44,28.813V21.152h5.746V90.1H30.729V21.152h5.746v7.661ZM23.068,15.407a1.915,1.915,0,0,1,1.915-1.915H36.474v3.83H26.9V93.931H92.016V17.322H82.44v-3.83H93.931a1.915,1.915,0,0,1,1.915,1.915v80.44a1.915,1.915,0,0,1-1.915,1.915H24.983a1.915,1.915,0,0,1-1.915-1.915ZM9.661,40.3a1.915,1.915,0,0,1,1.915-1.915h7.661V95.846a5.746,5.746,0,0,0,5.746,5.746H93.931a5.746,5.746,0,0,0,5.746-5.746V38.389h7.661a1.915,1.915,0,0,1,1.915,1.915v65.118H9.661Zm103.423,70.864a1.915,1.915,0,0,1-1.915,1.915H7.746a1.915,1.915,0,0,1-1.915-1.915v-1.915H113.084Z"/>
+      <path id="Trazado_633094" data-name="Trazado 633094" d="M24.478,30.016,33.493,21l-2.708-2.708L24.478,24.6,22,22.123l-2.708,2.708Z" transform="translate(15.827 14.912)"/>
+      <rect id="Rectángulo_34553" data-name="Rectángulo 34553" width="29.964" height="2.14" transform="translate(53.367 37.722)"/>
+      <path id="Trazado_633095" data-name="Trazado 633095" d="M24.478,31.6,22,29.123l-2.708,2.708,5.185,5.185L33.493,28l-2.708-2.708Z" transform="translate(15.827 21.319)"/>
+      <rect id="Rectángulo_34554" data-name="Rectángulo 34554" width="29.964" height="2.14" transform="translate(53.367 50.564)"/>
+      <rect id="Rectángulo_34555" data-name="Rectángulo 34555" width="29.964" height="2.14" transform="translate(53.367 63.406)"/>
+      <rect id="Rectángulo_34556" data-name="Rectángulo 34556" width="29.964" height="4.281" transform="translate(53.367 76.248)"/>
+      <path id="Trazado_633096" data-name="Trazado 633096" d="M23,42.662l2.476-2.476,2.476,2.476,2.708-2.708-2.476-2.476L30.662,35l-2.708-2.708-2.476,2.476L23,32.293,20.293,35l2.476,2.476-2.476,2.476Z" transform="translate(16.742 27.725)"/>
+      <path id="Trazado_633097" data-name="Trazado 633097" d="M24.478,45.6,22,43.123l-2.708,2.708,5.185,5.185L33.493,42l-2.708-2.708Z" transform="translate(15.827 34.132)"/>
+    </g>
+  </g>
+</svg>

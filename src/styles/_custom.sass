@@ -1,19 +1,346 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 90%
+    left: -10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 79%
+    left: -5%
+  &-3
+    animation: float3 6s ease-in-out infinite alternate
+    position: absolute
+    top: 62%
+    right: 15%
+    width: 18%
+  &-4
+    animation: float2 5.5s ease-in-out infinite alternate
+    position: absolute
+    top: 10%
+    right: 15%
+    width: 6%
+  &-5
+    animation: float1 5.5s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    left: 10%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
-  100%
     transform: translateY(0px)
+  100%
+    transform: translateY(30px)
+  
+@keyframes float2
+  0%
+    transform: translateX(0px)
+  100%
+    transform: translateX(50px)
+  
+@keyframes float3
+  0%
+    transform: rotate(45deg) translateX(60px) rotate(-45deg)
+  100%
+    transform: rotate(-180deg) translateX(30px) rotate(180deg)
+  
+.titulo-principal__numero
+  background-color: $color-acento-contenido
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BGIMG07
+  background-image: url("../assets/curso/fondos/img07.png")
+
+.BGIMG08
+  background-image: url("../assets/curso/fondos/img08.png")
+
+.BGIMG09
+  background-image: url("../assets/curso/fondos/img09.png")
+
+.BGIMG10
+  background-image: url("../assets/curso/fondos/img10.png")
+
+.BGIMG11
+  background-image: url("../assets/curso/fondos/img11.png")
+
+.BGIMG12
+  background-image: url("../assets/curso/fondos/img12.png")
+
+.BGIMG13
+  background-image: url("../assets/curso/fondos/img13.png")
+
+.BGIMG14
+  background-image: url("../assets/curso/fondos/img14.png")
+
+.BGIMG15
+  background-image: url("../assets/curso/fondos/img15.png")
+
+.BGIMG16
+  background-image: url("../assets/curso/fondos/img16.png")
+
+.BGIMG17
+  background-image: url("../assets/curso/fondos/img17.png")
+
+.BGIMG18
+  background-image: url("../assets/curso/fondos/img18.png")
+
+.BGIMG19
+  background-image: url("../assets/curso/fondos/img19.png")
+
+.BGIMG20
+  background-image: url("../assets/curso/fondos/img20.png")
+
+.BGIMG21
+  background-image: url("../assets/curso/fondos/img21.png")
+
+.BGIMG22
+  background-image: url("../assets/curso/fondos/img22.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06, .BGIMG07, .BGIMG08, .BGIMG09, .BGIMG10, .BGIMG11, .BGIMG12, .BGIMG13, .BGIMG14, .BGIMG15, .BGIMG16, .BGIMG17, .BGIMG18, .BGIMG19, .BGIMG20, .BGIMG21, .BGIMG22
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.BG01
+  background-color: #F3F1FF
+
+.BG02, .BGR02, .BGR05.acordion__activo
+  background-color: #E3F5F8
+
+.BGR03, .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #E6E1FB
+
+.BGR04, .BGR04A, .cajon-b.color-primario:before
+  background-color: #D5CEF8
+  opacity: 1
+
+.BGR05
+  background-color: #F6F6F6
+
+.BGR05.acordion__activo
+  background-color: #DAF1F5
+
+.BGR06
+  background-color: #40327B
+
+.BGR02, .BGIMG03, .BGR03, .BGR04, .BGR05, .BGIMG05, .BGR06, .BGIMG09, .BGIMG11, .BGIMG14, .BGIMG15, .BGIMG16
+  border-radius: 10px
+
+.BGR04A
+  border-radius: 45px 15px 15px 15px
+
+.BGIMG02
+  border-radius: 0 35px 35px 0
+
+.BGIMG08
+  border-radius: 0 150px 150px 0
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.acordion__accion__btn--b
+  border: 1px solid #45BBCC
+
+.acordion__accion__btn--b i
+  color: #45BBCC
+  
+.img-01
+  position: relative
+  top: -35%
+
+.img-02
+  position: relative
+  top: 245px
+  right: 40px
+
+.img-03
+  position: absolute
+  left: 107px
+  @media (max-width: $bp-max-lg)
+    position: relative
+    left: 0
+    
+.img-04
+  position: relative
+  top: 225px
+  right: 40px
+
+.img-05
+  position: relative
+  top: 175px
+  right: 40px
+
+.hg-01
+  height: 208px
+  @media (max-width: $bp-max-xl)
+    height: 304px
+  @media (max-width: $bp-max-lg)
+    height: initial
+  
+.hg-02
+  height: 536px
+  @media (max-width: $bp-max-lg)
+    height: 555px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-03
+  height: 300px
+  @media (max-width: $bp-max-xl)
+    height: 290px
+  @media (max-width: $bp-max-lg)
+    height: 260px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-04
+  height: 360px
+  @media (max-width: $bp-max-xl)
+    height: 404px
+  @media (max-width: $bp-max-lg)
+    height: 270px
+  @media (max-width: $bp-max-md)
+    height: 337px
+  @media (max-width: $bp-max-xs)
+    height: initial
+  
+.hg-05
+  height: 410px
+  @media (max-width: $bp-max-xl)
+    height: 450px
+  @media (max-width: $bp-max-lg)
+    height: 399px
+  @media (max-width: $bp-max-md)
+    height: 337px
+  @media (max-width: $bp-max-xs)
+    height: initial
+  
+.hg-06
+  height: 485px
+  @media (max-width: $bp-max-xl)
+    height: 477px
+  @media (max-width: $bp-max-lg)
+    height: 516px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-07
+  height: 285px
+  @media (max-width: $bp-max-xl)
+    height: 270px
+  @media (max-width: $bp-max-lg)
+    height: 285px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-08
+  height: 136px
+  @media (max-width: $bp-max-xl)
+    height: 160px
+  @media (max-width: $bp-max-lg)
+    height: 208px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-09
+  height: 370px
+  border-radius: 10px
+  @media (max-width: $bp-max-xl)
+    height: 382px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-10
+  height: 292px
+  border-radius: 10px
+  @media (max-width: $bp-max-xl)
+    height: 288px
+  @media (max-width: $bp-max-lg)
+    height: initial
+  
+.hg-11
+  height: 470px
+  @media (max-width: $bp-max-xl)
+    height: 525px
+  @media (max-width: $bp-max-lg)
+    height: 600px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-12
+  height: 279px
+  @media (max-width: $bp-max-xl)
+    height: 261px
+  @media (max-width: $bp-max-lg)
+    height: 292px
+  @media (max-width: $bp-max-md)
+    height: initial
+
+.bloque-inv .bloque-texto-g__img
+  left: 50%
+  @media (max-width: $bp-max-md)
+    left: 0
+
+.bloque-inv .bloque-texto-g__texto
+  left: -40%
+  @media (max-width: $bp-max-md)
+    left: 0
+  
+.bloque-40 .bloque-texto-g__img
+  width: 40%
+  @media (max-width: $bp-max-md)
+    width: 100%
+  
+.bloque-40 .bloque-texto-g__texto
+  width: 70%
+  @media (max-width: $bp-max-md)
+    width: 100%
+
+.slyder-a__bullets__item--active
+  background-color: #40327B !important
+
+.slyder-a__bullets__item
+  background-color: #A097CC
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  color: $white
+
+.cajon-end.cajon-b:before
+  right: 0
+  left: 70%
+  bottom: 50%
+
